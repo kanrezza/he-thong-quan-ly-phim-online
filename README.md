@@ -1,6 +1,6 @@
 # Hệ Thống Quản Lý Phim Online (Lumière)
 
-Dự án cuối kỳ môn Phân Tích Thiết Kế Phần Mềm (PTTKPM - Nhóm 5 - N04). Hệ thống cho phép người dùng xem và khám phá phim trực tuyến, đồng thời cung cấp bộ công cụ quản trị toàn diện cho Admin.
+Hệ thống cho phép người dùng xem và khám phá phim trực tuyến, đồng thời cung cấp bộ công cụ quản trị toàn diện cho Admin.
 
 ---
 
