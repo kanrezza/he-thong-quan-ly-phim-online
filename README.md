@@ -104,6 +104,6 @@ php artisan serve
 
 ---
 
-## Đội ngũ phát triển
+## Thành viên phát triển
 
-- **Nhóm 5 - N04** · Trần Bảo Long · Trần Đăng · Phenikaa University
+- **Trần Đình Danh** · Phenikaa University
