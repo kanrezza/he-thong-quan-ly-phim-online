@@ -38,8 +38,8 @@ Dự án cuối kỳ môn Phân Tích Thiết Kế Phần Mềm (PTTKPM - Nhóm 
 
 | Vai trò | Tài khoản | Mật khẩu |
 |---------|-----------|----------|
-| Admin   | admin@lumiere.com | _(liên hệ nhóm)_ |
-| User    | user@lumiere.com  | _(liên hệ nhóm)_ |
+| Admin   | admin@gmail.com | 123456 |
+| User    | danh@gmail.com  | 123456 |
 
 ---
 
